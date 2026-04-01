@@ -36,6 +36,11 @@ Solved **400+ problems on LeetCode**, focusing on Data Structures and Algorithms
 ![](https://nirzak-streak-stats.vercel.app/?user=Agrima Omer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrima Omer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Featured Projects
 
+🔹 **Chatly** – Real-time chat application using MERN stack  
+🔹 **AI Notes Generator** – Generate notes using AI  
+🔹 **Diabetes Prediction App** – Machine Learning based prediction system  
+🔹 **Linear Regression ML Model**
 
 
