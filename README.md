@@ -1,4 +1,10 @@
 # Agrima-Omer
+<h1 align="center">Hi 👋, I'm Agrima Omer</h1>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack | Machine Learning Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Learner;DSA+Enthusiast&center=true&width=500&height=50">
+</p>
 # 💫 About Me:
 I am a **third-year CS student** and an **aspiring Full Stack Developer** who enjoys building scalable web applications and learning new technologies. I am currently working on **Chatly**, a **real-time chat application** that focuses on efficient communication and modern web technologies.
 
