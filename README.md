@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Machine+Learning+Learner;DSA+Enthusiast&center=true&width=500&height=50">
 </p>
 # 💫 About Me:
-I am a **third-year CS student** and an **aspiring Full Stack Developer** who enjoys building scalable web applications and learning new technologies. I am currently working on **Chatly**, a **real-time chat application** that focuses on efficient communication and modern web technologies.
+I am a **final-year CS student** and an **aspiring Full Stack Developer** who enjoys building scalable web applications and learning new technologies. I am currently working on **Chatly**, a **real-time chat application** that focuses on efficient communication and modern web technologies.
 
 I have experience in both **frontend and backend development**, and I am also exploring **Machine Learning** to expand my technical skill set.
 
